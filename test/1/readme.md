@@ -93,8 +93,7 @@ Things to do :
    일단 초반에 생각하였던 resolution exploration decay  하는 방법 
    2.1일반 DQN에서 action 반복하는 횟수만 decay시키기
    2.2 예를 들어 action 반복이 1~10에서 선택된다고 할때 
-   2.3  처음에는 1~10부터
-   9, 8, 7, 6 , 5 1 까지 학습이 되면 될수록 그 반복 acrtion space가 줄어들게 한다. 
+   2.3  처음에는 1~10부터 9 8 7 6 4 3 2 1 까지 학습이 되면 될수록 그 반복 acrtion space가 줄어들게 한다. 
    2.4 마리오 말고 다른 아타리에다가 적용해볼것 
 
 
